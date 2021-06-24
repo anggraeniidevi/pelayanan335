@@ -130,7 +130,7 @@ header {
 }
 
 .lesson-wrapper {
-  padding-bottom: 80px;
+  padding-bottom: 100px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
@@ -159,6 +159,7 @@ header {
 .lesson-icon a {
   position: relative;
   color: #B22222;
+  font-size:20px;
 }
 
 .lesson-icon p {
