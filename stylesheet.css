@@ -157,7 +157,8 @@ header {
 }
 
 .lesson-icon a {
-  position: absolute;
+  position: relative;
+  color: #B22222;
 }
 
 .lesson-icon p {
